@@ -1,0 +1,7 @@
+C:\Temp\ctlAddressLib\ctlAddressLib\bin\Debug\ctlAddressLib.dll
+C:\Temp\ctlAddressLib\ctlAddressLib\bin\Debug\ctlAddressLib.pdb
+C:\Temp\ctlAddressLib\ctlAddressLib\obj\Debug\ctlAddressLib.ctlAddress.resources
+C:\Temp\ctlAddressLib\ctlAddressLib\obj\Debug\ctlAddressLib.csproj.GenerateResource.Cache
+C:\Temp\ctlAddressLib\ctlAddressLib\obj\Debug\ctlAddressLib.dll
+C:\Temp\ctlAddressLib\ctlAddressLib\obj\Debug\ctlAddressLib.pdb
+C:\Temp\ctlAddressLib\ctlAddressLib\obj\Debug\ctlAddressLib.csprojResolveAssemblyReference.cache
